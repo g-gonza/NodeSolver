@@ -1,5 +1,6 @@
 #working to create a solver for a path problem, where we read a file and determine if it is solvable or not
 #our output will be able to be put into a SAT Solver
+#testing git
 import os
 
 filename = input("Enter the name of the file you want to read: ")
