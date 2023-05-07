@@ -1,7 +1,7 @@
 #working to create a solver for a path problem, where we read a file and determine if it is solvable or not
 #our output will be able to be put into a SAT Solver
 #this deals with the 3-coloring problem
-import os
+import os 
 
 #filename = input("Enter the name of the file you want to read: ")
 filename = 'input_graph_1.txt'
