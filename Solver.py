@@ -95,7 +95,7 @@ for ConnVertIndex in range(1, len(VerticeConnections)+1):
                 print(*combination)
 
 #had to use sets instead of lists so that way I could do easy comparisons
-            
+input("Press 'Enter' to exit...")
 
 
 #print(VerticeDictionary)
