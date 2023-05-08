@@ -11,7 +11,6 @@ Letters = [{'a':1, 'b':2, 'c':3, 'd':4, 'e':5, 'f':6,
            'y':25, 'z':26}]
 
 filename = input("Enter the name of the file you want to read: ")
-filename = 'input_graph_1.txt'
 cwd = os.getcwd()
 os.chdir(os.path.join(cwd, 'InputFiles'))
 InputFile = open(filename, 'r')
